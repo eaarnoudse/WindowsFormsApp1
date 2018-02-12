@@ -20,10 +20,11 @@ namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             MessageBox.Show("Hello world");
-            MessageBox.Show("See  you tomorrow...");
+            MessageBox.Show("Tweede regel...");
             MessageBox.Show("Derde regel...");
             MessageBox.Show("Vierde regel...");
             MessageBox.Show("Vijfde regel...");
+            MessageBox.Show("toevoegen_nieuwe_feature - Zesde regel");
         }
     }
 }
